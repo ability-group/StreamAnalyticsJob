@@ -1,0 +1,1 @@
+# RA-Az-Test-StreamAnalyticsJob
