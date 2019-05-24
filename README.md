@@ -12,4 +12,3 @@
 <a href="https://abilitygroup.ru" target="_blank">
     <img src="https://abilitygroup.ru/local/templates/main/images/ability_logo_footer.png"/>
 </a>
-https://abilitygroup.ru
