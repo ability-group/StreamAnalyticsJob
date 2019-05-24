@@ -1,12 +1,11 @@
-# Create RA-Az-Test-StreamAnalyticsJob solution
+# StreamAnalyticsJob template
 
- <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fabruslan%2FRA-Az-Test-StreamAnalyticsJob%2Fmaster%2Fazuredeploy.json" target="_blank">
+ <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fability-group%2FStreamAnalyticsJob%2Fmaster%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-</a>
 
-Шаблон выполняет разворачивание решения. 
+Шаблон для развертывания решения на основе Stream Analytics Job. 
 
-Для просмотра подробной информации перейдите по ссылке::
+Для просмотра подробной информации перейдите по ссылке:
 
 http://abilitygroup.ru
